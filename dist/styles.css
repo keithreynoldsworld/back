@@ -1,0 +1,47 @@
+body {
+
+
+	text-align: center;
+	font-size: 60px;
+	color: orange;
+	background: purple;
+
+
+}
+
+a {
+
+ color: pink;
+
+}
+
+
+
+
+
+.myButton {
+	-moz-box-shadow: -8px -9px 50px 49px #3dc21b;
+	-webkit-box-shadow: -8px -9px 50px 49px #3dc21b;
+	box-shadow: -8px -9px 50px 49px #3dc21b;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:12px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:28px;
+	font-weight:bold;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:6px 10px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

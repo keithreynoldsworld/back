@@ -28,9 +28,12 @@ $(document).ready(function() {
 		},
 
 		ga: function() {
-			console.log('game');
-			$('.page').hide();
-			$('#ga').show();
+						console.log('game');
+						$('.page').hide();
+						$('#ga').show();
+
+			
+			// END OF THEIVERY
 		},
 
 		le: function(name) {
